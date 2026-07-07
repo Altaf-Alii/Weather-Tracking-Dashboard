@@ -1,0 +1,38 @@
+[
+  {
+    "city": "Karachi",
+    "country": "PK",
+    "temperature": 33.4,
+    "humidity": 61,
+    "condition": "Clear",
+    "wind_speed": 4.2,
+    "timestamp": "2026-07-05 09:15:00"
+  },
+  {
+    "city": "Karachi",
+    "country": "PK",
+    "temperature": 35.1,
+    "humidity": 55,
+    "condition": "Clouds",
+    "wind_speed": 3.8,
+    "timestamp": "2026-07-06 09:20:00"
+  },
+  {
+    "city": "Lahore",
+    "country": "PK",
+    "temperature": 38.2,
+    "humidity": 40,
+    "condition": "Clear",
+    "wind_speed": 2.1,
+    "timestamp": "2026-07-05 10:00:00"
+  },
+  {
+    "city": "Islamabad",
+    "country": "PK",
+    "temperature": 29.6,
+    "humidity": 70,
+    "condition": "Rain",
+    "wind_speed": 5.4,
+    "timestamp": "2026-07-06 08:45:00"
+  }
+]

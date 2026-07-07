@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+data/weather_history.json
+data/weather_history.csv
+*.png
