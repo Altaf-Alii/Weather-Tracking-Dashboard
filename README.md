@@ -98,6 +98,6 @@ wind speed, and timestamp.
 - Multi-city auto-refresh tracking
 - Rain/storm alert notifications
 
-## 📄 License
+## 🎥 Demo Video
 
-Free to use for learning and educational purposes.
+Watch the full demo here:(https://drive.google.com/file/d/1SbpOqJM-qXbcRrAMpkkNd1PnzEDHQkHI/view?usp=sharing)
